@@ -10,7 +10,7 @@ for i in range(8):
 		Table[i].append(copy_of_file[c])
 		c+=1
 
-print "Your table will rotate by 90 degrees"
+print "Your table will rotate by 90,180 and 270 degrees"
 
 New_Table=Table
 
